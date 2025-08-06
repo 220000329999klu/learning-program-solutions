@@ -1,0 +1,4 @@
+package com.cognizant.spring_learn.config;
+
+public class ApplicationConfig {
+}

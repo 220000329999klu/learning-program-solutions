@@ -1,0 +1,4 @@
+package com.cognizant.springrest.controller;
+
+public class DepartmentController {
+}

@@ -1,0 +1,4 @@
+package com.cognizant.springrest.dao;
+
+public class DepartmentDao {
+}

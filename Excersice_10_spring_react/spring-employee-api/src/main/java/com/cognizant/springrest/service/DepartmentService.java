@@ -1,0 +1,4 @@
+package com.cognizant.springrest.service;
+
+public class DepartmentService {
+}
