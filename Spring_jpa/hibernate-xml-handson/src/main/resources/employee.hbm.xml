@@ -1,0 +1,11 @@
+<hibernate-mapping>
+    <class name="Employee" table="EMPLOYEE">
+        <id name="id" type="int">
+            <column name="ID"/>
+            <generator class="native"/>
+        </id>
+        <property name="firstName" column="FIRST_NAME" type="string"/>
+        <property name="lastName" column="LAST_NAME" type="string"/>
+        <property name="salary" column="SALARY" type="float"/>
+    </class>
+</hibernate-mapping>

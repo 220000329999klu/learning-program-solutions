@@ -1,0 +1,2 @@
+2025-08-05 14:46:15 [com.example.logging.AppenderLoggingExample.main()] INFO  c.e.logging.AppenderLoggingExample - Logging to both console and file
+2025-08-05 14:46:15 [com.example.logging.AppenderLoggingExample.main()] ERROR c.e.logging.AppenderLoggingExample - An error occurred while processing the request

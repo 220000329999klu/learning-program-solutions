@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="001732b5-13d6-44af-b6e6-d8e3f588b2c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Parameterized_Tests/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parameterized_Tests/Output/82FC8133-CA9F-484C-BF66-A63EA7F37178.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parameterized_Tests/src/test/java/EvenCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_Execution_Order/output/171647A2-8993-4D1A-AA58-9C34D487F826.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_Execution_Order/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_Execution_Order/src/main/java/ExceptionThrower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_Execution_Order/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_Execution_Order/src/test/java/ExceptionThrowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_Execution_Order/src/test/java/OrderedTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_Suites_and_Categories/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_Suites_and_Categories/output/5F808716-9CE9-4FE7-B2DD-67421E1E29AD.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_Suites_and_Categories/src/test/java/AllTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_Suites_and_Categories/src/test/java/SampleTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_Suites_and_Categories/src/test/java/SampleTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeout_and_Performance_Testing/output/9743CDE5-705B-4C51-89FD-8AAE7FCD3030.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeout_and_Performance_Testing/src/test/java/PerformanceTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeout_and_Performance_Testing/src/test/java/PerformanceTesterTes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/Excersice_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit_Basic_Excersice/AAA_Pattern_Setup_Teardown/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit_Basic_Excersice/AAA_Pattern_Setup_Teardown/Outout/5BCD39A9-F7FF-455A-B779-31B59D2868D7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit_Basic_Excersice/AAA_Pattern_Setup_Teardown/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit_Basic_Excersice/AAA_Pattern_Setup_Teardown/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit_Basic_Excersice/AAA_Pattern_Setup_Teardown/src/test/java/FixtureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit_Basic_Excersice/Assertions_in_JUnit/output/CD2B3EA5-59C2-408F-BDE7-81D3ACDF12B2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit_Basic_Excersice/Assertions_in_JUnit/src/test/java/com/testing/assertions/AssertionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit_Basic_Excersice/Writing_Basic_JUnit_Tests/output/21D3D8E3-D8AA-4870-853B-19795E17EF9D.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit_Basic_Excersice/Writing_Basic_JUnit_Tests/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUnit_Basic_Excersice/Writing_Basic_JUnit_Tests/src/test/java/CalculatorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="30nqDHMGXKSrujuOoMdikqVHzqA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "JUnit.MyServiceTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/mdbelalazam/Desktop/learning-program-solutions/Excersice_3/ Advanced_JUnit_Testing_Exercises/Verifying_Interactions/output",
+    "onboarding.tips.debug.path": "/Users/mdbelalazam/Desktop/learning-program-solutions/Excersice_3/ Advanced_JUnit_Testing_Exercises/Verifying_Interactions/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/output" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Verifying_Interactions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyServiceTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+EnableDynamicAgentLoading" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="001732b5-13d6-44af-b6e6-d8e3f588b2c5" name="Changes" comment="" />
+      <created>1754273563013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754273563013</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
