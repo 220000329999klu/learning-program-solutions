@@ -1,0 +1,27 @@
+.btn-light {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  padding: 5px 10px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.btn-dark {
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  padding: 5px 10px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.app.light {
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+.app.dark {
+  background-color: #222;
+  color: #eee;
+}
